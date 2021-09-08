@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋 I am Sparsh</h1>
 <h2 align="center">I'm Student, Developer, Learner!</h2>
 
+- 👨‍💼 Founder - Sparsh Technology Pvt. Ltd.
+- 🥇 Team Leader & Lyriclious Student Partner (Campus Ambassador)
 - 🚀 I am currently learning about **Full Stack Web Developer** <br>
 - 👨‍💻 **Tap Coordinator** ITM University  <br>
 - 👨‍💼 **Campus Business Manager** Intern PrepBytes<br> 
@@ -25,6 +27,7 @@
 <div>
   <p align="center">
   <img height="40" width="40" src="https://cdn.svgporn.com/logos/react.svg">
+  <img height="40" width="40" src="https://cdn.svgporn.com/logos/python.svg"> 
   <img  width="40" height="40" src="https://cdn.svgporn.com/logos/material-ui.svg">
   <img width="40" height="40" src="https://cdn.svgporn.com/logos/angular.svg">
   <img width="40" height="40" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
